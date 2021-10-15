@@ -1,8 +1,12 @@
 # MỤC LỤC
 &ensp;[1, Tìm hiểu về PNET LAB](#1)
+
 &ensp;[1.1,	Giới thiệu](#1.1)
+
 &ensp;[1.2.	Mode PNETLAB](#1.2)
+
 &ensp;[1.3.	Ưu điểm](#1.3) 
+
 &ensp;[2.	Cài đặt PnetLab trên VMWare](#2)
 
 
