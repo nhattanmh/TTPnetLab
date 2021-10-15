@@ -7,7 +7,7 @@
 
 &ensp;[1.3.	Ưu điểm](#1.3) 
 
-&ensp;[2.	Cài đặt PnetLab trên VMWare](#2)
+&ensp;[2. Cài đặt PnetLab trên VMWare](#2)
 
 
 # <a name ="1">1.  Tìm hiểu về PNET LAB</a>
@@ -45,6 +45,6 @@
   + Quản lý được dung lượng Ram, Cpu, Hdd cho từng thiết bị.
   + Hỗ trợ Wireshark, telnet, hot connections, Nat cloud, …
 
-# <a name ="2>2.  Cài đặt PnetLab trên VMWare</a>
+# <a name ="2">2.  Cài đặt PnetLab trên VMWare</a>
 	
 B1: Dowload tệp .ova tại link [trang chủ:](https://pnetlab.com/pages/download)
