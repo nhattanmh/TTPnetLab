@@ -34,3 +34,15 @@
 | - Không thể chia sẻ hoặc bán lab cho PNETLAB Strore.    |- Có thể tải xuống và sử dụng tất cả các Lab trên Store.           | 
 | - Giới hạn 10 tài khoản (Có thể nâng cấp nhưng cần có internet).   | - 	Có thể chia sẻ hoặc bán lab cho PNETLAB Strore.          |
 |   | - Giới hạn 10 tài khoản (Có thể nâng cấp). | 
+
+# <a name ="1.3">1.3.  Ưu điểm</a>
+  +	Có phiển bản Offline.
+	+ Miễn phí
+  + Hỗ trợ Lab Store, …
+  + Hỗ trợ nhiều hệ điều hành (Cisco, Juniper, Arista, ..)
+  + Hỗ trợ làm lab (Task, timer, …)
+  + Không giới hạn Node.
+  + Quản lý được dung lượng Ram, Cpu, Hdd cho từng thiết bị.
+  + Hỗ trợ Wireshark, telnet, hot connections, Nat cloud, …
+
+
