@@ -1,11 +1,11 @@
 # MỤC LỤC
-&ensp;[1, Khái niệm](#1)
+&ensp;[1. Khái niệm](#1)
 
-&ensp;[1.1, VLAN](#1.1)
+&ensp;[1.1. VLAN](#1.1)
 
-&ensp;[1.2,TRUNKING](#1.2)
+&ensp;[1.2. TRUNKING](#1.2)
 
-&ensp;[2, Thực hành:](#2)
+&ensp;[2. Thực hành:](#2)
 
 &ensp;[2.1. VLANs Trunking and Routing on Cisco](#2.1)
 
@@ -21,3 +21,6 @@ VD: Để các host cùng VLAN của 2 switch có thể giao tiếp được nha
   - 1006 – 4094: dải VLAN mở rộng, sử dụng khi switch hoạt động ở mode Transparent.
   - 0 và 4095: VLAN dành riêng.
   - VLAN 1, 1002 – 1005: mặc định trên Switch và không thể xóa được.Mặc định VLAN sau khi được tạo sẻ được lưu vào file vlan.dat trong bộ nhớ Flash.
+
+- đâsd
+    -   đasadsa
