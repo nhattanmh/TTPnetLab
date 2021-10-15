@@ -78,7 +78,60 @@ Yêu cầu: Thiết lập cấu hình VLANs Trungking and Routing để các thi
 
 ![image](https://user-images.githubusercontent.com/59860781/137440861-1cbd3309-d80a-4c5f-9691-f17cf9fb2711.png)
 
+# <a name ="2.2">2.2.  Configuration the VLANs on Switch Cisco</a>
+# Mô hình
 
+![image](https://user-images.githubusercontent.com/59860781/137440928-c0103022-9bf8-4298-8b83-98c1316b3833.png)
+
+- Truy cập vào Switch A.
+- Tiến hành tạo vlan và đặt tên cho vlan.
+
+![image](https://user-images.githubusercontent.com/59860781/137440950-06b3b9f9-be8b-46ba-bf3b-95189c9c7d6a.png)
+
+- Tiến hành xác đinh port mà thiết bị cần access VLAN tiến hành cấu hình VLAN cho port đó.
+
+![image](https://user-images.githubusercontent.com/59860781/137440968-8d864561-0d8e-4d50-aee7-479113391683.png)
+
+- Kiểm tra Vlan vừa tạo.
+
+![image](https://user-images.githubusercontent.com/59860781/137440994-c24c113c-bf3e-43fa-978e-d63f1d50b569.png)
+
+- Tiến hành cấu hình Trunking cho đường đi giữa 2 Switch.
+
+![image](https://user-images.githubusercontent.com/59860781/137441004-df0612e4-aa1f-4256-8a17-a281deb4406c.png)
+
+- Kiểm tra cấu hình của Switch
+
+![image](https://user-images.githubusercontent.com/59860781/137441008-6e25cc0c-9d35-4c9c-a698-586bcf482f7f.png)
+
+![image](https://user-images.githubusercontent.com/59860781/137441013-338e8839-ad34-48b1-922b-c8a346816781.png)
+
+- Truy cập vào Switch B.
+- Tiến hành tạo vlan và đặt tên cho vlan.
+
+![image](https://user-images.githubusercontent.com/59860781/137441029-5749ba9f-523c-4576-8f09-2ebd848559a4.png)
+
+- Tiến hành xác đinh port mà thiết bị cần access VLAN tiến hành cấu hình VLAN cho port đó.
+
+![image](https://user-images.githubusercontent.com/59860781/137441035-4db85789-5366-43a4-99e9-53821bededf3.png)
+
+- Kiểm tra Vlan vừa tạo. 
+
+![image](https://user-images.githubusercontent.com/59860781/137441043-a022eeca-5192-4e56-b797-e22edd7f187b.png)
+
+- Tiến hành cấu hình Trunking cho đường đi giữa 2 Switch.
+
+![image](https://user-images.githubusercontent.com/59860781/137441053-90416ce3-8999-4cc1-8210-4dbc7554a9a8.png)
+
+- Kiểm tra cấu hình của Switch
+
+![image](https://user-images.githubusercontent.com/59860781/137441066-98f3ad1b-c7bf-437d-8281-969313aef055.png)
+
+![image](https://user-images.githubusercontent.com/59860781/137441071-8e69ae3a-4de9-4a90-a102-2a10f2c052fb.png)
+
+- Truy cập vào thiết bị Sistermas 1 (192.168.1.1) tiến hành ping tới thiết bị Sistermas 4 (192.168.1.4), để kiểm tra kết nối.
+
+![image](https://user-images.githubusercontent.com/59860781/137441089-0e39dbbe-6bcf-4972-9762-e017a1f43a20.png)
 
 
 
