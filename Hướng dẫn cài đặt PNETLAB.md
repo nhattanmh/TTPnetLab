@@ -103,6 +103,7 @@ B4: Tải Lab từ cửa hàng:
 - Truy cập vào PnetLab Store bằng [địa chỉ sau:](https://user.pnetlab.com/store/labs/view)
 
 ![image](https://user-images.githubusercontent.com/59860781/137439493-260ffcda-3505-4b50-ad5b-b51561a46718.png)
+
 Note: Có rất nhiều Lab từ Store và các lab hoàn toàn miễn phí.
 
 B5: Tải Lab và thực hành:
