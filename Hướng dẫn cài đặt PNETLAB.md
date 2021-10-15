@@ -23,3 +23,14 @@
 
 # <a name ="1.2">1.2.  Mode PNETLAB</a>
 -	PNETLAB có 2 chế độ: Offline Mode và Online Mode.
+-	
+![image](https://user-images.githubusercontent.com/59860781/137438515-08817412-bbb5-473a-8dc8-d611a1637f64.png)
+
+| Offline Mode  | Online Mode |  
+| :----- | :---------- | 
+| - Không cần internet để làm việc   | - Cần internet để làm việc.       |
+| - Không cần đăng ký    | - 	Cần đăng ký.        | 
+| -	Hỗ trợ đầy đủ các chức năng của PNETLab.   |-	Hỗ trợ đầy đủ các chức năng của PNETLab        |
+| - Không thể chia sẻ hoặc bán lab cho PNETLAB Strore.    |- Có thể tải xuống và sử dụng tất cả các Lab trên Store.           | 
+| - Giới hạn 10 tài khoản (Có thể nâng cấp nhưng cần có internet).   | - 	Có thể chia sẻ hoặc bán lab cho PNETLAB Strore.          |
+|   | - Giới hạn 10 tài khoản (Có thể nâng cấp). | 
