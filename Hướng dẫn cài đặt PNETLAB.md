@@ -21,9 +21,9 @@
 -	Ubuntu Server 16.04 LTS làm nền tảng cho kim loại trần (lộ trình)
 -	Nền tảng đám mây của Google
 
-# <a name ="1.2">1.2.  Mode PNETLAB</a>
+## <a name ="1.2">1.2.  Mode PNETLAB</a>
 -	PNETLAB có 2 chế độ: Offline Mode và Online Mode.
--	
+	
 ![image](https://user-images.githubusercontent.com/59860781/137438515-08817412-bbb5-473a-8dc8-d611a1637f64.png)
 
 | Offline Mode  | Online Mode |  
@@ -35,9 +35,9 @@
 | - Giới hạn 10 tài khoản (Có thể nâng cấp nhưng cần có internet).   | - 	Có thể chia sẻ hoặc bán lab cho PNETLAB Strore.          |
 |   | - Giới hạn 10 tài khoản (Có thể nâng cấp). | 
 
-# <a name ="1.3">1.3.  Ưu điểm</a>
-  +	Có phiển bản Offline.
-	+ Miễn phí
+## <a name ="1.3">1.3.  Ưu điểm</a>
+  + Có phiển bản Offline.
+  + Miễn phí
   + Hỗ trợ Lab Store, …
   + Hỗ trợ nhiều hệ điều hành (Cisco, Juniper, Arista, ..)
   + Hỗ trợ làm lab (Task, timer, …)
@@ -45,4 +45,5 @@
   + Quản lý được dung lượng Ram, Cpu, Hdd cho từng thiết bị.
   + Hỗ trợ Wireshark, telnet, hot connections, Nat cloud, …
 
-
+# <a name ="2>2.  Cài đặt PnetLab trên VMWare</a>
+B1: Dowload tệp .ova tại link [trang chủ:]https://pnetlab.com/pages/download)
