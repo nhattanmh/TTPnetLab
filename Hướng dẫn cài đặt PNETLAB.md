@@ -46,4 +46,5 @@
   + Hỗ trợ Wireshark, telnet, hot connections, Nat cloud, …
 
 # <a name ="2>2.  Cài đặt PnetLab trên VMWare</a>
-B1: Dowload tệp .ova tại link [trang chủ:]https://pnetlab.com/pages/download)
+	
+B1: Dowload tệp .ova tại link [trang chủ:](https://pnetlab.com/pages/download)
